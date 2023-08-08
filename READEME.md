@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFnbHB3Zng1Y2hrYTFldzFrb3VoZHh6YWdsMWU5cmZ6a2diZXl6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6WZ2hHxe80mBTmkjS/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Giphy  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
